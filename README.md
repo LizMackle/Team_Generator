@@ -26,8 +26,8 @@ Please feel free to contribute in any way by forking the repo and creating a pul
 ## Tests
 Run "npm test" in the terminal 
 
-```
 ## License
+```
 This project is using the MIT license.
 
 Copyright < YEAR > <COPYRIGHT HOLDER>
