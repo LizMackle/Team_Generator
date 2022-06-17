@@ -16,10 +16,16 @@ Node.js command line application that takes in information about employees on a 
   - [Questions](#questions)
 
 ## Installation
-Run “npm install” in the terminal after cloning Github repository
+Clone the Github repository:<br>
+`https://github.com/LizMackle/Team_Generator.git`
+
+Install all dependencies required for application:<br>
+`npm install` from the root directory.
 
 ## Usage
-To use this app, run "node .\index.js" in the terminal 
+To use this app, use the following command in the terminal:
+
+`node .\index.js`<br>
 
 ![GenerateHTMLGif](https://user-images.githubusercontent.com/93589073/154940497-dee84195-b527-4e09-b3a9-325120aaf139.gif)
 
@@ -27,14 +33,14 @@ To use this app, run "node .\index.js" in the terminal
 Please feel free to contribute in any way by forking the repo and creating a pull request
 
 ## Tests
-Run "npm test" in the terminal 
+Run `npm test` in the terminal 
 
 ![TestpassGif](https://user-images.githubusercontent.com/93589073/154940512-4f7ad05f-c82e-4d17-982f-5857b43a04ea.gif)
 
 ## License
 This project is using the MIT license.
 
-Copyright < YEAR > <COPYRIGHT HOLDER>
+Copyright < 2022 > <LizMackle>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
